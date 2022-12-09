@@ -16,7 +16,7 @@ const Contact = () => {
           I am currently looking for new opportunities, you can email me by
           clicking on the button below. 
           <br />
-          Feel free to contact me and I’ll get back to you ASAP!
+          Feel free to contact me and I will get back to you ASAP!
         </code>
         <button className=" border border-lightblue_vs text-lightblue_vs mt-10 p-3 rounded hover:bg-opacity-10 hover:bg-lightblue_vs w-1/2">
           <a href="mailto:wrenfrances92@gmail.com">
